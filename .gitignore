@@ -1,0 +1,5 @@
+node_modules
+output
+assets/**/*.jpeg_original
+yarn-error.log
+.env
