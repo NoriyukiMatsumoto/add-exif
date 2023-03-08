@@ -38,7 +38,3 @@ const main = async () => {
 };
 
 main();
-
-/**
- * {"Model":"SCG08","ImageDescription":"","Flash":16,"DateTime":"2022:03:26 16:54:51","ImageLength":3000,"BrightnessValue":7.1,"SubSecTimeOriginal":"13","Orientation":1,"PixelXDimension":4000,"YCbCrPositioning":2,"DigitalZoomRatio":1,"ThumbnailImageWidth":0,"Make":"samsung","ComponentsConfiguration":"???","ResolutionUnit":2,"JPEGInterchangeFormatLength":0,"Compression":6,"FocalLengthIn35mmFilm":0,"Software":"SCG08KDU1AUF4","XResolution":72,"DateTimeOriginal":"2022:03:26 16:54:51","ExposureTime":0.020001,"ApertureValue":1.8,"ColorSpace":1,"ImageWidth":4000,"JPEGInterchangeFormat":1396,"ExifVersion":"0220","YResolution":72,"ExposureMode":0,"FNumber":1.8,"FlashpixVersion":"0100","FocalLength":4.6,"ExposureBiasValue":0,"LightSource":255,"MaxApertureValue":0,"ISOSpeedRatings":308,"SubSecTimeDigitized":"13","PixelYDimension":3000,"ExposureProgram":0,"InteroperabilityIndex":"R98","SceneCaptureType":0,"WhiteBalance":0,"SubSecTime":"13","MeteringMode":2,"ThumbnailImageLength":0,"ShutterSpeedValue":5.614,"DateTimeDigitized":"2022:03:26 16:54:51","latitude":35.627879,"longitude":139.74085}
- */

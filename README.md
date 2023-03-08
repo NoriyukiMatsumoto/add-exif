@@ -334,3 +334,9 @@ $ ts-node src/index.ts
   }
 }
 ```
+
+## base64を画像に変換しexif情報を見る
+```
+$ yarn install
+$ yarn start:base64-to-jpeg
+```
